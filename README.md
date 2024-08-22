@@ -34,7 +34,7 @@ Framework of SepsisCalc. (A) Dynamic temporal graph construction. (B) Sepsis pre
     |
     |--code
     |    |
-    |    |--imputation                           * SepsisCalc generate calculators 
+    |    |--preprocessing                           * Data preprocessing codes 
     |    |
     |    |--prediction                           * SepsisCalc predicts sepsis risks 
     |
