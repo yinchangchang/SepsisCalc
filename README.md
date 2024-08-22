@@ -100,9 +100,10 @@ python main.py --dataset MIMIC
 ## Setting
 <img src="src/fig4.png" width=70%>
 
+Setting of sepsis onset prediction.
+
 ## Q1: Why must we incorporate the clinical calculator scores?
 
-Setting of sepsis onset prediction.
 
 <img src="src/fig5.png" width=70%>
 
